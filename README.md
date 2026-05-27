@@ -1,7 +1,7 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
 
-<img src="biah-removebg-preview.jpg" width="300">
+<img src="biah.jpg" width="300">
 
 
 </div>
