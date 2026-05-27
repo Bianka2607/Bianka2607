@@ -1,7 +1,7 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
 <h1>bianka</h1>
-<img src="biah.jpg">
+<img src="biah.jpg" width="100">
 
 
 </div>
