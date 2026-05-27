@@ -18,4 +18,12 @@
 </picture>
 
 
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bianka-sys&theme=transparent"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=bianka-sys&theme=transparent&hide_border=true&ring=30BF86&fire=30BF86&currStreakLabel=30BF86"/>
+</div>
+
+---
+
+
+
 
