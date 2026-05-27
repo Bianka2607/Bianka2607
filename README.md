@@ -1,7 +1,8 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
 
-<img src="biah.jpg width =100">
+<img width="480" height="202" alt="Spider-Man GIF by Spider-Man_ Into The Spider-Verse - Find   Share on GIPHY" src="https://github.com/user-attachments/assets/2ca421cb-cc8d-4c3e-a1ec-73a03ba71792" />
+
 
 
 
