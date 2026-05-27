@@ -1,7 +1,7 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
 <h1>bianka</h1>
-![Biah](biah.jpg)
+![Biah](./biah.jpg)
 
 
 </div>
