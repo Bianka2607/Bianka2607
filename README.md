@@ -1,6 +1,6 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction: row;">
 <img width="540" height="291" alt="download" src="https://github.com/user-attachments/assets/2d95094b-5bd4-45d2-a862-f70b729d62f1" />
 
 
