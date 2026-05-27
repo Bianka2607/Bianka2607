@@ -1,7 +1,7 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
 
-<img src="biah.jpg"width / height ="100">
+<img src="biah.jpg"width="100">
 
 
 
