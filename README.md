@@ -1,7 +1,7 @@
 ## oiiiii! Welcome to my profile 💻🌟
 
-<h1>bianka</h1>
-<img src="biah-removebg-preview.jpg" width="500">
+
+<img src="biah-removebg-preview.jpg" width="300">
 
 
 </div>
