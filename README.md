@@ -1,4 +1,10 @@
-##  𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 ˚₊‧♡‧₊˚
+## 𖤓 𝙱𝚎𝚖 𝚟𝚒𝚗𝚍𝚘𝚜 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝙷𝚞𝚋  ✧
+estudante do SENAI | ADS  ✧ 
+
+✧ tecnologia • tódigo • evolução
+
+𖤓 lógica de Programação • sistemas Operacionais ☁︎
+
 <table border="none">
   <tr>
     <td><img width="360" alt="download" src="https://github.com/user-attachments/assets/2d95094b-5bd4-45d2-a862-f70b729d62f1" /></td>
